@@ -1,3 +1,3 @@
-# hello-world
-Getting started with hello-world
+# hello-world!
+Getting started with Hello World!
 First README comment
